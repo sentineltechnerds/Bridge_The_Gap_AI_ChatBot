@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
 import { Button } from "@/components/ui/button";
 import { GraduationCap, Sparkles, GraduationCap as Cap, Wallet, BookOpen, ArrowRight } from "lucide-react";
+// eslint-disable-next-line
 
 const Index = () => {
   const { user } = useAuth();
