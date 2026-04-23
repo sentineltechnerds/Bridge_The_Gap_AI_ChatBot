@@ -19,6 +19,7 @@ The bot acts like a trusted mentor: clear, motivational, realistic, and always n
 ## 🚀 Live Demo
 
 Open the app and start chatting — no signup required.
+Link:  https://hope-hub-za.lovable.app
 
 ---
 
