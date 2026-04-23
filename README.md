@@ -1,6 +1,6 @@
 # Bridge the Gap 🎓
 
-> An AI-powered chatbot helping South African students navigate university applications, bursaries, and student readiness — no login, no setup, just ask.
+> An AI-powered chatbot helping South African students navigate university applications, bursaries, and student readiness, no login, no setup, just ask.
 ---
 
 ## ✨ About
